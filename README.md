@@ -13,7 +13,7 @@ The following image represents the view of the landing page upon completion of t
 ## Link to page
 
 The link to the page can be found below
-![Webpage] (https://anayoifediora.github.io/Code-Refactor-Challenge/02-Challenge/Develop/)
+![Webpage] (https://anayoifediora.github.io/Code-Refactor-Challenge/)
 
 
 
